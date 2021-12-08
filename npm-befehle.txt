@@ -1,0 +1,1 @@
+wenn 2x react installiert ist: npm link ../node_modules/react
