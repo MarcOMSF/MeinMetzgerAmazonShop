@@ -57,5 +57,5 @@ function Home() {
         </div>
     );
 }
-// 1:30
+
 export default Home
